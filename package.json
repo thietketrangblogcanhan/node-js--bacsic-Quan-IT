@@ -1,0 +1,23 @@
+{
+  "name": "nodejsbasic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thietketrangblogcanhan/node-js--bacsic-Quan-IT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thietketrangblogcanhan/node-js--bacsic-Quan-IT/issues"
+  },
+  "homepage": "https://github.com/thietketrangblogcanhan/node-js--bacsic-Quan-IT#readme",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
